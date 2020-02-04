@@ -3,7 +3,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py4ds/final-project/master?urlpath=lab/tree/final-project.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/py4ds/final-project/blob/master/final-project.ipynb)
-[![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.genewiz.com%2F-%2Fmedia%2FImages%2FServices%2FNGS%2FEpigenomics%2F2019%2FExomeSeqWebpageiconsadPlaceholder-Image.ashx%3Fla%3Den%26hash%3DE6D937154D27B9222B2B1D73D2F4570B4BA66B8B&imgrefurl=https%3A%2F%2Fwww.genewiz.com%2FPublic%2FServices%2FNext-Generation-Sequencing%2FExome-Sequencing%2F&tbnid=FeM7TEODadEF_M&vet=12ahUKEwj07v7Vk7jnAhWBG98KHdQ9BXYQMyglegQIARB5..i&docid=zeuEOL4FE5rlTM&w=500&h=333&q=exome%20sequencing&ved=2ahUKEwj07v7Vk7jnAhWBG98KHdQ9BXYQMyglegQIARB5)
+[![image](https://www.genewiz.com/-/media/Images/Services/NGS/Epigenomics/2019/ExomeSeqWebpageiconsadPlaceholder-Image.ashx?la=en&hash=E6D937154D27B9222B2B1D73D2F4570B4BA66B8B)
 
 This repository contains a template for final projects.
 
