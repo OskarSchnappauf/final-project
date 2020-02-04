@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Final Project Oskar 
+=======
+# Final Project of Oskar Schnappauf
+>>>>>>> 5275684506b1cc9d88f31f7e633f55f9ea347d45
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py4ds/final-project/master?urlpath=lab/tree/final-project.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/py4ds/final-project/blob/master/final-project.ipynb)
