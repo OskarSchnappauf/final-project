@@ -4,7 +4,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/py4ds/final-project/master?urlpath=lab/tree/final-project.ipynb)
 [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/py4ds/final-project/blob/master/final-project.ipynb)
 
-[![image](https://www.genewiz.com/-/media/Images/Services/NGS/Epigenomics/2019/ExomeSeqWebpageiconsadPlaceholder-Image.ashx?la=en&hash=E6D937154D27B9222B2B1D73D2F4570B4BA66B8B)
+![image](https://www.genewiz.com/-/media/Images/Services/NGS/Epigenomics/2019/ExomeSeqWebpageiconsadPlaceholder-Image.ashx?la=en&hash=E6D937154D27B9222B2B1D73D2F4570B4BA66B8B)
 
 This repository contains a template for final projects.
 
